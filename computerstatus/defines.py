@@ -1,0 +1,7 @@
+
+IN_SERVER_PORT = 15655
+OUT_SERVER_PORT = 15656
+
+REMOTES_SERVER_HOST="shell.devel.redhat.com"
+REMOTES_SERVER_HOST="localhost"
+
